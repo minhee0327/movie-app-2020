@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#project와는 별개 학습 자료 폴더
+*temp*
+
 # dependencies
 /node_modules
 /.pnp
