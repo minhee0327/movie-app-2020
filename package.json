@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "colorette": "^1.2.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -33,5 +33,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://minhee0327.github.com/movie-app-2020"
+  "homepage": "https://minhee0327.github.io/movie-app-2020"
 }
