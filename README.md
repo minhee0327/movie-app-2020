@@ -8,4 +8,4 @@
   - [링크](https://stackoverflow.com/questions/62760637/error-found-while-developing-games-with-react/62848761#62848761)
   - 이자료와 마찬가지로 나도 node를 업뎃하면 다른 프로젝트들에 영향이 가기때문에 좀 그래서
   - colorette를 다운그레이드 해서 해결!!!+ㅁ+ (ㅠㅠ제발 다음에는 빨리 해결하길 바라면서 끄적.)
-- [배포주소](https://stackoverflow.com/questions/62760637/error-found-while-developing-games-with-react/62848761#62848761)
+- [배포주소](https://minhee0327.github.io/movie-app-2020)
